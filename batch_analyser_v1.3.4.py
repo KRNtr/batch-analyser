@@ -1,9 +1,11 @@
 import os
 import re
+import sys
 import zipfile
 import tempfile
 import shutil
 import hashlib
+import subprocess
 from pynput import keyboard
 import xml.etree.ElementTree as ET
 from PIL import Image
@@ -15,18 +17,21 @@ import requests
 import json
 
 def get_latest_version():
-    # Fetch the latest version from GitHub
-    url = "https://github.com/KRNtr/batch-analyser/raw/58dd919a68f7df1921c8053a7255b395d63188c6/releases/latest"
+    url = "https://api.github.com/repos/KRNtr/batch-analyser/contents/releases"
 
     try:
         response = requests.get(url)
         if response.status_code != 200:
             print(f"Failed to fetch latest version: {response.status_code}")
-            print(response.content)
             return None
-        response.raise_for_status()
-        release_info = json.loads(response.text)
-        return release_info['tag_name']  # e.g., v1.0.0
+        files = response.json()
+        
+        # Sort files by name or any logic that determines the 'latest'
+        latest_file = sorted(files, key=lambda x: x['name'], reverse=True)[0]
+        match = re.search(r'v(\d+\.\d+(\.\d+)?)', latest_file['name'])
+        if match:
+            latest_version = match.group(0)  # e.g., v1
+        return latest_version  # Return the latest file name
     except requests.RequestException as e:
         print(f"Network error: {e}")
         return None
@@ -47,6 +52,7 @@ def get_local_version():
         print(f"{COLOUR.RED}Could not determine local version. Please check exe filename and report this bug to Kai.{COLOUR.STOP}")
 def check_for_updates():
     get_local_version()
+    global local_version
     latest_version = get_latest_version()
     
     if latest_version and (latest_version != local_version):
@@ -56,13 +62,31 @@ def check_for_updates():
     else:
         print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
 def download_update(version):
-    # Download the update from GitHub
-    download_url = f"https://github.com/KRNtr/batch-analyser/releases/latest/batch_analyser_{version}"
+    download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/{version}"
     response = requests.get(download_url)
     if response.status_code == 200:
-        with open("your-program.exe", "wb") as f:
+        new_file = "new_version.exe"
+        with open(new_file, "wb") as f:
             f.write(response.content)
         print("Update downloaded successfully.")
+        
+        current_exe = sys.argv[0]
+        bat_script = """
+        @echo off
+        timeout /t 2 >nul
+        del "{current_exe}"
+        ren "{new_file}" "{current_exe_name}"
+        start "" "{current_exe}"
+        del "%~f0"
+        """.format(current_exe=current_exe, new_file=new_file, current_exe_name=os.path.basename(current_exe))
+        
+        bat_file = "update_script.bat"
+        with open(bat_file, "w") as f:
+            f.write(bat_script)
+        
+        print("Closing application for update...")
+        subprocess.Popen(bat_file, shell=True)
+        sys.exit(0)
     else:
         print("Failed to download the update.")
 
@@ -526,6 +550,7 @@ def start_key_listener():
     return listener
 
 def main():
+    os.system('cls')
     global local_version
     check_for_updates()
 

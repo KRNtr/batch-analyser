@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['D:\\Python_Script_exe_Staging\\batch_analyser_v1.3.4\\batch_analyser_v1.3.4.py'],
+    ['C:\\Users\\Content Ops\\Documents\\GitHub\\batch-analyser\\batch_analyser_v1.3.4.py'],
     pathex=[],
     binaries=[],
     datas=[],
