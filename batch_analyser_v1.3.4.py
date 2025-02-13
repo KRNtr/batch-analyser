@@ -581,7 +581,7 @@ def main():
     print("▐░░░░░░░░░ batch_analyser_" + local_version +" ░░░░░░░░░▌")
     print("▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌")
 
-    print(f"{COLOUR.GREEN}This is version v1.3.5{COLOUR.STOP}")
+    #print(f"{COLOUR.GREEN}This is version v1.3.5{COLOUR.STOP}")
 
     print("\nThis tool checks a .zip batch file for issues that may cause errors when processed by Sendsei.\n")
     print("It will check:\n"
