@@ -87,7 +87,7 @@ def download_update(version):
             print(f"{COLOUR.RED}This will delete the current version from your system and is irreversible.{COLOUR.STOP}")
             confirm = input(f"Input 'delete' to confirm deletion of version {local_version}: ").lower()
 
-            if confirm == "confirm":
+            if confirm == "delete":
             # Batch script that deletes the current version, then opens the new version.
                 bat_script = """
                 @echo off
