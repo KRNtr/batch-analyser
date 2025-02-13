@@ -16,29 +16,37 @@ import json
 
 def get_latest_version():
     # Fetch the latest version from GitHub
-    url = "https://api.github.com/repos/your-username/your-repo/releases/latest"
+    url = "https://api.github.com/repos/KRNtr/batch-analyser/releases/latest"
     response = requests.get(url)
     if response.status_code == 200:
         release_info = response.json()
         return release_info['tag_name']  # e.g., v1.0.0
     return None
+
+local_version =""
+
 def get_local_version():
-    # Read the local version from a file
-    with open("version.txt", "r") as f:
-        return f.read().strip()
+    global local_version
+    # Extract the version from the file name of the executable
+    exe_name = os.path.basename(__file__)
+    match = re.search(r'v(\d+\.\d+(\.\d+)?)', exe_name)
+    if match:
+        local_version = match.group(0)  # e.g., v1.3.4 or v1.3 or v1
+    else:
+        print(f"{COLOUR.RED}Could not determine local version. Please check exe filename and report this bug to Kai.{COLOUR.STOP}")
 def check_for_updates():
-    local_version = get_local_version()
+    get_local_version()
     latest_version = get_latest_version()
     
-    if latest_version and latest_version != local_version:
-        print(f"New version available: {latest_version}")
+    if latest_version and (latest_version != local_version):
+        print(f"{COLOUR.YELLOW}New version available: {latest_version}{COLOUR.STOP}")
         # Download and install the update
         download_update(latest_version)
     else:
-        print("You are using the latest version.")
+        print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
 def download_update(version):
     # Download the update from GitHub
-    download_url = f"https://github.com/your-username/your-repo/releases/download/{version}/your-program.exe"
+    download_url = f"https://github.com/KRNtr/batch-analyser/releases/latest/batch_analyser_{version}"
     response = requests.get(download_url)
     if response.status_code == 200:
         with open("your-program.exe", "wb") as f:
@@ -46,8 +54,6 @@ def download_update(version):
         print("Update downloaded successfully.")
     else:
         print("Failed to download the update.")
-if __name__ == "__main__":
-    check_for_updates()
 
 os.system('color')
 
@@ -60,8 +66,6 @@ class COLOUR:
     YELLOW = ESC + '[33m'
     CYAN = "\033[0;36m"
     STOP   = '\x1b[0m'
-
-version = "v1.3.4"
 
 def write_errors_to_xlsx(all_errors, path, batch_name, filename='Validation_Errors'):
     if not os.path.exists(path):
@@ -511,20 +515,28 @@ def start_key_listener():
     return listener
 
 def main():
+    global local_version
+    check_for_updates()
+
+    if local_version == "":
+        local_version = "v.undefined"
+        print(f"\n{COLOUR.RED}Local version could not be determined - could not check for updates.\nCurrent version may be outdated. Please contact administrator.\n")
     print("\n\n▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌")
-    print("▐░░░░░░░░░ batch_analyser_" + version+" ░░░░░░░░░▌")
+    print("▐░░░░░░░░░ batch_analyser_" + local_version +" ░░░░░░░░░▌")
     print("▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌")
+
+
     print("\nThis tool checks a .zip batch file for issues that may cause errors when processed by Sendsei.\n")
     print("It will check:\n"
-          "    - that the contents of each release folder is correct\n"
-          "    - that all the required files / folders are present\n"
-          "    - that the download files contain the right information\n"
-          "    - the integrity of album art\n")
+        "    - that the contents of each release folder is correct\n"
+        "    - that all the required files / folders are present\n"
+        "    - that the download files contain the right information\n"
+        "    - the integrity of album art\n")
     print("When the check is over, the tool will:\n"
-           "    - move the failed releases into a folder named 'batch_name'_Failed Releases (if any are detected)\n"
-           "    - create a xlsx file containing issue information\n"
-           "    - give you the option to create a new batch cleared of the failed releases\n"
-           "    - give you the option to delete the original batch\n")
+        "    - move the failed releases into a folder named 'batch_name'_Failed Releases (if any are detected)\n"
+        "    - create a xlsx file containing issue information\n"
+        "    - give you the option to create a new batch cleared of the failed releases\n"
+        "    - give you the option to delete the original batch\n")
     
     print(COLOUR.YELLOW + "Press ESC at any time to safely exit the tool\n  - The tool makes temporary files to function\n  - Exiting with the esc key ensures these files are deleted\n" + COLOUR.STOP)
     global stop_execution
@@ -546,7 +558,8 @@ def main():
     finally:
         listener.stop()
         print("Exiting...\n\n")
-    #input("Press enter to exit: ")
+    
+    input("Press enter to exit: ")
 
 if __name__ == "__main__":
     main()
