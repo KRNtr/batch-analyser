@@ -63,7 +63,7 @@ def check_for_updates():
     else:
         print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
 def download_update(version):
-    download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/{version}"
+    download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/batch_analyser_{version}.exe"
     response = requests.get(download_url)
     if response.status_code == 200:
         new_file = f"batch_analyser_{version}.exe"
