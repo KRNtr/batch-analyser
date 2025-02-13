@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import time
 import zipfile
 import tempfile
 import shutil
@@ -62,29 +63,48 @@ def check_for_updates():
     else:
         print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
 def download_update(version):
-    download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/{version}"
+    download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/batch_analyser_{version}.exe"
     response = requests.get(download_url)
     if response.status_code == 200:
-        new_file = "new_version.exe"
+        new_file = f"batch_analyser_{version}.exe"
         with open(new_file, "wb") as f:
             f.write(response.content)
         print("Update downloaded successfully.")
         
+        delete = input(f"Close and delete current version {local_version}? (y/n): ").lower()
+
         current_exe = sys.argv[0]
+
+        # Batch script that opens the new version
         bat_script = """
         @echo off
         timeout /t 2 >nul
-        del "{current_exe}"
-        ren "{new_file}" "{current_exe_name}"
-        start "" "{current_exe}"
+        start "" "{new_file}"
         del "%~f0"
-        """.format(current_exe=current_exe, new_file=new_file, current_exe_name=os.path.basename(current_exe))
+        """.format(new_file=new_file)
+
+        if delete == "y":
+            print(f"{COLOUR.RED}This will delete the current version from your system and is irreversible.{COLOUR.STOP}")
+            confirm = input(f"Input 'delete' to confirm deletion of version {local_version}: ").lower()
+
+            if confirm == "confirm":
+            # Batch script that deletes the current version, then opens the new version.
+                bat_script = """
+                @echo off
+                timeout /t 2 >nul
+                del "{current_exe}"
+                start "" "{current_exe}"
+                del "%~f0"
+                """.format(current_exe=current_exe, new_file=new_file, current_exe_name=os.path.basename(current_exe))
+            else:
+                print(f"{COLOUR.YELLOW}Old version will not be deleted.{COLOUR.STOP}")
         
         bat_file = "update_script.bat"
         with open(bat_file, "w") as f:
             f.write(bat_script)
         
         print("Closing application for update...")
+        time.sleep(2.0)
         subprocess.Popen(bat_file, shell=True)
         sys.exit(0)
     else:
