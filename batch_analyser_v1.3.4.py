@@ -16,14 +16,25 @@ import json
 
 def get_latest_version():
     # Fetch the latest version from GitHub
-    url = "https://api.github.com/repos/KRNtr/batch-analyser/releases/latest"
-    response = requests.get(url)
-    if response.status_code == 200:
-        release_info = response.json()
-        return release_info['tag_name']  # e.g., v1.0.0
-    return None
+    url = "https://github.com/KRNtr/batch-analyser/raw/58dd919a68f7df1921c8053a7255b395d63188c6/releases/latest"
 
-local_version =""
+    try:
+        response = requests.get(url)
+        if response.status_code != 200:
+            print(f"Failed to fetch latest version: {response.status_code}")
+            print(response.content)
+            return None
+        response.raise_for_status()
+        release_info = json.loads(response.text)
+        return release_info['tag_name']  # e.g., v1.0.0
+    except requests.RequestException as e:
+        print(f"Network error: {e}")
+        return None
+    except json.JSONDecodeError:
+        print("Error decoding JSON response")
+        return None
+    
+local_version = ""
 
 def get_local_version():
     global local_version
