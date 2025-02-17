@@ -482,7 +482,9 @@ def start_key_listener():
 def main():
     os.system('cls')
     global latest_version
-    local_version = AutoUpdate.get_local_version()
+    exe_name = os.path.basename(__file__)
+    local_dir = os.path.dirname(__file__)
+    local_version = AutoUpdate.get_local_version(exe_name)
 
     if local_version == "":
         local_version = "v.undefined"
@@ -490,10 +492,10 @@ def main():
     else:
         latest_version = AutoUpdate.get_latest_version(url)
         if latest_version is not None:
-            AutoUpdate.check_for_updates(local_version, latest_version, download_url)
+            AutoUpdate.check_for_updates(local_version, local_dir, latest_version, download_url)
         else:
             print(f"\n{COLOUR.RED}Could not check for updates, please restart tool.\nIf issue persists contact Jake or Kai.\n")
-            
+
     print("\n\n▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌")
     print("▐░░░░░░░░░ batch_analyser_" + local_version +" ░░░░░░░░░▌")
     print("▐░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▌")
