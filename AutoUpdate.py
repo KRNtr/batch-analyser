@@ -44,9 +44,8 @@ def get_latest_version(url):
         print("Error decoding JSON response")
         return None
 
-def get_local_version():
+def get_local_version(exe_name):
     # Extract the version from the file name of the executable
-    exe_name = os.path.basename(__file__)
     match = re.search(r'v(\d+\.\d+(\.\d+)?)', exe_name)
     if match:
         local_version = match.group(0)  # e.g., v1.3.4 or v1.3 or v1
@@ -55,7 +54,7 @@ def get_local_version():
         print(f"{COLOUR.RED}Could not determine local version. Please check exe filename and report this bug to Kai.{COLOUR.STOP}")
         return None
 
-def check_for_updates(local_version, latest_version, download_url):
+def check_for_updates(local_version, local_dir, latest_version, download_url):
     
     if latest_version and (latest_version != local_version):
         # Compare version numbers
@@ -65,17 +64,18 @@ def check_for_updates(local_version, latest_version, download_url):
         if latest_version_num > local_version_num:
             print(f"{COLOUR.YELLOW}New version available: {latest_version}{COLOUR.STOP}")
             # Download and install the update
-            download_update(local_version, latest_version, download_url)
+            download_update(local_version, local_dir, latest_version, download_url)
         else:
             print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
     else:
         print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
 
-def download_update(local_version, latest_version, download_url):
+def download_update(local_version, local_dir, latest_version, download_url):
     response = requests.get(download_url)
     if response.status_code == 200:
         new_file = f"batch_analyser_{latest_version}.exe"
-        with open(new_file, "wb") as f:
+        download_path = os.path.join("C:/path/to/your/destination", new_file)
+        with open(download_path, "wb") as f:
             f.write(response.content)
         print("Update downloaded successfully.")
         
