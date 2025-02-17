@@ -28,10 +28,15 @@ def get_latest_version():
         files = response.json()
         
         # Sort files by name or any logic that determines the 'latest'
-        latest_file = sorted(files, key=lambda x: x['name'], reverse=True)[0]
-        match = re.search(r'v(\d+\.\d+(\.\d+)?)', latest_file['name'])
-        if match:
-            latest_version = match.group(0)  # e.g., v1
+        version_files = []
+        for file in files:
+            match = re.search(r'v(\d+\.\d+(\.\d+)?)', file['name'])
+            if match:
+                version_files.append((file['name'], tuple(map(int, match.group(1).split('.')))))
+
+        if version_files:
+            latest_file = max(version_files, key=lambda x: x[1])[0]
+            latest_version = re.search(r'v(\d+\.\d+(\.\d+)?)', latest_file).group(0)
         return latest_version  # Return the latest file name
     except requests.RequestException as e:
         print(f"Network error: {e}")
@@ -51,17 +56,26 @@ def get_local_version():
         local_version = match.group(0)  # e.g., v1.3.4 or v1.3 or v1
     else:
         print(f"{COLOUR.RED}Could not determine local version. Please check exe filename and report this bug to Kai.{COLOUR.STOP}")
+
 def check_for_updates():
     get_local_version()
     global local_version
     latest_version = get_latest_version()
     
     if latest_version and (latest_version != local_version):
-        print(f"{COLOUR.YELLOW}New version available: {latest_version}{COLOUR.STOP}")
-        # Download and install the update
-        download_update(latest_version)
+        # Compare version numbers
+        latest_version_num = tuple(map(int, latest_version.lstrip('v').split('.')))
+        local_version_num = tuple(map(int, local_version.lstrip('v').split('.')))
+        
+        if latest_version_num > local_version_num:
+            print(f"{COLOUR.YELLOW}New version available: {latest_version}{COLOUR.STOP}")
+            # Download and install the update
+            download_update(latest_version)
+        else:
+            print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
     else:
         print(f"{COLOUR.GREEN}You are using the latest version.{COLOUR.STOP}")
+        
 def download_update(version):
     download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/batch_analyser_{version}.exe"
     response = requests.get(download_url)
