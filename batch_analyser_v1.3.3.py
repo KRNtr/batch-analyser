@@ -16,9 +16,6 @@ from openpyxl.utils import get_column_letter  # type: ignore
 
 import AutoUpdate
 latest_version = ""
-url = "https://api.github.com/repos/KRNtr/batch-analyser/contents/releases"
-download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/batch_analyser_{latest_version}.exe"
-
 
 os.system('color')
 
@@ -481,6 +478,7 @@ def start_key_listener():
 
 def main():
     os.system('cls')
+    
     global latest_version
     exe_name = os.path.basename(__file__)
     local_dir = os.path.dirname(__file__)
@@ -490,8 +488,10 @@ def main():
         local_version = "v.undefined"
         print(f"\n{COLOUR.RED}Local version could not be determined - could not check for updates.\nCurrent version may be outdated. Please contact administrator.\n")
     else:
+        url = "https://api.github.com/repos/KRNtr/batch-analyser/contents/releases" ### CHANGE THIS TO REPO URL
         latest_version = AutoUpdate.get_latest_version(url)
         if latest_version is not None:
+            download_url = f"https://raw.githubusercontent.com/KRNtr/batch-analyser/main/releases/batch_analyser_{latest_version}.exe" ### CHANGE THIS TO REPO URL
             AutoUpdate.check_for_updates(local_version, local_dir, latest_version, download_url)
         else:
             print(f"\n{COLOUR.RED}Could not check for updates, please restart tool.\nIf issue persists contact Jake or Kai.\n")

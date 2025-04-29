@@ -74,7 +74,7 @@ def download_update(local_version, local_dir, latest_version, download_url):
     response = requests.get(download_url)
     if response.status_code == 200:
         new_file = f"batch_analyser_{latest_version}.exe"
-        download_path = os.path.join("C:/path/to/your/destination", new_file)
+        download_path = os.path.join(local_dir, new_file)
         with open(download_path, "wb") as f:
             f.write(response.content)
         print("Update downloaded successfully.")
