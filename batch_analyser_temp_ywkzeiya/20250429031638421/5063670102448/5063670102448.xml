@@ -1,0 +1,1398 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>647CF62400986CAB8A61E6821A170035</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T07:48:30Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2500210</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText></ReferenceTitle>
+				      <Duration>PT0H1M08S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>cbd2799820b131b724dbe925fb7caf0a</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2503837</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>peroprdel</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M16S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>peroprdel</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>peroprdel</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4bdd37f68b9d3039a5bf67dd7d1a1a46</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2517794</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>logik</TitleText></ReferenceTitle>
+				      <Duration>PT0H0M51S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>logik</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>logik</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>26830a1f4985927aa010057f496d4904</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2552638</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>ranniptace</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M02S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>ranniptace</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>ranniptace</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>262a2b11e0e26b9546510bae56ece929</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2563490</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A5</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>ĐuPa</TitleText></ReferenceTitle>
+				      <Duration>PT0H1M07S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>ĐuPa</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>ĐuPa</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_005.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>a6cb37da9988ede6160dbb6e8c4c150c</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2528092</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A6</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M34S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_006.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>e5db902bf537f955201ed32ecfb767a7</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2584488</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A7</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>teplelidskeslovo</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M30S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>teplelidskeslovo</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>teplelidskeslovo</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_007.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>9a933871e8c550afc5eb58de2953e2c5</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2529343</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A8</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>murafmif</TitleText></ReferenceTitle>
+				      <Duration>PT0H1M42S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>murafmif</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>murafmif</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_008.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>fc4c038218937c2499ca276b944b8944</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX89G2519315</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A9</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>tajd</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M30S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>tajd</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>tajd</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Tadeáš Kirschner</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>Explicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_009.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>8c3b704fc151aaf6cf533c924b1a5551</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX3HH2506156</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A10</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>gumaq</TitleText></ReferenceTitle>
+				      <Duration>PT0H7M26S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>gumaq</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>gumaq</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Václav Pfleger</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Vojtěch Szrajber</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Václav Pfleger</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Vojtěch Szrajber</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Imperitas Gambualas</LabelName>
+							<OriginalResourceReleaseDate>2025-02-23</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Imperitas Gambualas</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063670102448_010.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>fac45ae4649f6122f80ad026f9588d36</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5063670102448.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A11</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5063670102448.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>40f408c67c3706b307e169f8b0bdd6dd</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2500210</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>prodamautofelciebasardvestevroeskorosezavolajnapisklobaska</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2503837</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>peroprdel</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>peroprdel</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>peroprdel</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2517794</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>logik</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>logik</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>logik</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2552638</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>ranniptace</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>ranniptace</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>ranniptace</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2563490</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R5</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>ĐuPa</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>ĐuPa</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>ĐuPa</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2528092</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R6</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>propadnasvetoveburzevtentoruzovyden</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2584488</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R7</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>teplelidskeslovo</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>teplelidskeslovo</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>teplelidskeslovo</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2529343</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R8</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>murafmif</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>murafmif</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>murafmif</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX89G2519315</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R9</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>tajd</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>tajd</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>tajd</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX3HH2506156</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R10</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>gumaq</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>gumaq</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>gumaq</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5063670102448</ICPN><CatalogNumber Namespace='CDB'>ImperitasGambualas</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>scaring the hoes: reinvented</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A11</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Imperitas Gambualas</DisplayArtistName>
+		        <LabelName>Imperitas Gambualas</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>scaring the hoes: reinvented</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>scaring the hoes: reinvented</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Imperitas Gambualas</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>Explicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>scaring the hoes: reinvented</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A6</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A7</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A8</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>9</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A9</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>10</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A10</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A11</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-02-23</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Imperitas Gambualas</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Imperitas Gambualas</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R5</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R6</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R7</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R8</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R9</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R10</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-02-23T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

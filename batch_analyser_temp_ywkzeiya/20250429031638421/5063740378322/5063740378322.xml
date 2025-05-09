@@ -1,0 +1,1479 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>6E85DA7B88111AE579ADB4DEFD8A56AC</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T04:09:15Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2534605</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Birthday Boy</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M42S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Birthday Boy</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Birthday Boy (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4eeef8d030c20d82da7456c5daf68e4f</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2564258</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Summer Song (Where&#39;s Summer Gone?)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H4M11S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Summer Song (Where&#39;s Summer Gone?)</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Summer Song (Where&#39;s Summer Gone?) (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>f7cf56cf9dffe0a3052e2f43ad7b4e77</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2599116</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Spotlight (Past the Clouds)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M18S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Spotlight (Past the Clouds)</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Spotlight (Past the Clouds) (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>614e31dcc793e3f884e7c30fb39afcac</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2527543</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Breathless</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H4M48S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Breathless</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Breathless (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>bdb4a833d69dc61b0d24de387c29ec42</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2561717</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A5</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Tuesday, Tuesday</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H4M20S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Tuesday, Tuesday</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Tuesday, Tuesday (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_005.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>d8e596d91bc59c93a8dbd6b06252be33</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2542110</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A6</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Rawkish</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H3M34S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Rawkish</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Rawkish (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_006.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>febcd125e83b1a38ee1b44ca026d1183</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2564740</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A7</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>One Night Only (Live at Willy&#39;s Inn)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M51S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>One Night Only (Live at Willy&#39;s Inn)</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>One Night Only (Live at Willy&#39;s Inn) (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_007.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>945ef7c0840a689c46a72caa976ea944</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2526152</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A8</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Red Socks Died Tide Blue</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M46S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Red Socks Died Tide Blue</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Red Socks Died Tide Blue</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_008.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4b1d90e089cb57c61b7e80789a9bb8a3</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2513165</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A9</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Resolution</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H4M42S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Resolution</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Resolution (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_009.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>80fba3aa311ea8d75080a4d354758e9e</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2584095</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A10</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Losing You</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M52S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Losing You</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Losing You (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_010.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>c70c2c64e9d2a46dd8b0f364f4f87e3f</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2581733</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A11</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Back 2 School</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M39S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Back 2 School</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Back 2 School (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_011.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>98c316933e1cb060eb79f35c70c83f47</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2534220</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A12</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Raising the Levy</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+				      <Duration>PT0H5M31S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Raising the Levy</TitleText>
+						  <SubTitle>Remastered</SubTitle>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Raising the Levy (Remastered)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Andrew Beggan</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Gloria, For a Mini</LabelName>
+							<OriginalResourceReleaseDate>2025-04-28</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Gloria, For a Mini</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Instrumental</GenreText>
+						  <SubGenre>Alternative</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740378322_012.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>b4163707bf59d18e5419d34c87d5fd24</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5063740378322.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A13</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5063740378322.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>1bf6f33b7856ac4f2e71d95a26bd047e</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2534605</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Birthday Boy</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Birthday Boy</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Birthday Boy (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2564258</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Summer Song (Where&#39;s Summer Gone?)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Summer Song (Where&#39;s Summer Gone?)</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Summer Song (Where&#39;s Summer Gone?) (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2599116</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Spotlight (Past the Clouds)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Spotlight (Past the Clouds)</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Spotlight (Past the Clouds) (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2527543</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Breathless</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Breathless</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Breathless (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2561717</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R5</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Tuesday, Tuesday</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Tuesday, Tuesday</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Tuesday, Tuesday (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2542110</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R6</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Rawkish</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Rawkish</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Rawkish (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2564740</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R7</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>One Night Only (Live at Willy&#39;s Inn)</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>One Night Only (Live at Willy&#39;s Inn)</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>One Night Only (Live at Willy&#39;s Inn) (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2526152</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R8</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Red Socks Died Tide Blue</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Red Socks Died Tide Blue</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Red Socks Died Tide Blue</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2513165</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R9</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Resolution</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Resolution</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Resolution (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2584095</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R10</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Losing You</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Losing You</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Losing You (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2581733</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R11</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Back 2 School</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Back 2 School</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Back 2 School (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2534220</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R12</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Raising the Levy</TitleText><SubTitle>Remastered</SubTitle></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Raising the Levy</TitleText>
+				  <SubTitle>Remastered</SubTitle>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Raising the Levy (Remastered)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5063740378322</ICPN><CatalogNumber Namespace='CDB'>Gloria&#44;ForaMini</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>The Whole Story</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A13</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Gloria&#44; For a Mini</DisplayArtistName>
+		        <LabelName>Gloria, For a Mini</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>The Whole Story</TitleText>
+					  <SubTitle>Remastered</SubTitle>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>The Whole Story (Remastered)</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Gloria&#44; For a Mini</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>The Whole Story</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A6</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A7</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A8</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>9</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A9</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>10</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A10</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>11</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A11</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>12</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A12</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A13</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Instrumental</GenreText>
+				  <SubGenre>Alternative</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-28</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Gloria, For a Mini</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Gloria, For a MIni</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R5</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R6</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R7</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R8</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R9</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R10</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R11</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R12</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-28T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

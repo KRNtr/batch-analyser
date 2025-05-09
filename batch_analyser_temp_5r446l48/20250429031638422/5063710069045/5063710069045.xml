@@ -1,0 +1,1795 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>4DE9B7822E0DE81FC734BC5689AB6F03</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T07:00:44Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2562830</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Ahi Etleli</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M36S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Ahi Etleli</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Ahi Etleli</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>777627aff1050681380f658092b6cd60</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2565526</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Nkarhi Awuse Fika</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M21S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Nkarhi Awuse Fika</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Nkarhi Awuse Fika</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>9f6e1c4d883db84df2939ac1496224ff</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2587444</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Beer Yi Mnandi</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M08S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Beer Yi Mnandi</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Beer Yi Mnandi</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>503c04b15ee583290d04601cd4d4e175</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2574929</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Gezani Day</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M00S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Gezani Day</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Gezani Day</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>b2e07b67b47426fc6808bd757b1a398c</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2553484</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A5</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Vinyi Va Mali</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M42S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Vinyi Va Mali</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Vinyi Va Mali</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_005.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>f4204bb17c957ad01b384e418af9bcbc</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2514116</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A6</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Swifamba Kahle</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M31S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Swifamba Kahle</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Swifamba Kahle</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_006.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>ba5fe008efb522a9e8ada9c9e618310d</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2574278</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A7</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Gezani Yi Hluvukile</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M36S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Gezani Yi Hluvukile</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Gezani Yi Hluvukile</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_007.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>bf1195a09ee2505918126b738133db33</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2535392</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A8</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Valoyi</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M03S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Valoyi</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Valoyi</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_008.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>23efceb21c97382f9093650d5a02fec1</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2532912</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A9</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Vamaseve</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M07S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Vamaseve</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Vamaseve</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_009.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>ec41601e24a6ccad3b34aa181ab1a054</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2502019</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A10</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Switoritori</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M56S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Switoritori</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Switoritori</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_010.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>e29405e2ab41740457d4e27819a4d7b5</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2568136</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A11</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Vusiwana</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M46S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Vusiwana</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Vusiwana</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_011.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>503200a498d9e84a99af583cc678c311</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2533976</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A12</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Xikwembu Xa Matilo</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M27S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Xikwembu Xa Matilo</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Xikwembu Xa Matilo</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_012.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>aa12ba8c268ec5b20439360f6f8b633e</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2577776</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A13</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Gaza Ya Pimapima</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M23S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Gaza Ya Pimapima</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Gaza Ya Pimapima</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T13</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_013.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4e4afb5442b6b26cd234f282e58d2677</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2539426</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A14</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Tichampion</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M19S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Tichampion</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Tichampion</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T14</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_014.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>ba31a2cb8b6ed4a80e3d6bd002fe6770</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2545184</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A15</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Swa Tsakisa</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M50S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Swa Tsakisa</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Swa Tsakisa</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Djtsakisa ThePunisher</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Dj Tsakisa Music</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Dj Tsakisa music production</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Blues</GenreText>
+						  <SubGenre>Electronic</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T15</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063710069045_015.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>64a1da91eb444556bc5afedc621e56a7</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5063710069045.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A16</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5063710069045.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>86c801ae306877c025125288ca0ee511</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2562830</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Ahi Etleli</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Ahi Etleli</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Ahi Etleli</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2565526</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Nkarhi Awuse Fika</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Nkarhi Awuse Fika</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Nkarhi Awuse Fika</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2587444</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Beer Yi Mnandi</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Beer Yi Mnandi</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Beer Yi Mnandi</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2574929</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Gezani Day</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Gezani Day</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Gezani Day</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2553484</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R5</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Vinyi Va Mali</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Vinyi Va Mali</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Vinyi Va Mali</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2514116</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R6</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Swifamba Kahle</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Swifamba Kahle</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Swifamba Kahle</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2574278</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R7</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Gezani Yi Hluvukile</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Gezani Yi Hluvukile</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Gezani Yi Hluvukile</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2535392</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R8</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Valoyi</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Valoyi</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Valoyi</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2532912</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R9</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Vamaseve</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Vamaseve</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Vamaseve</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2502019</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R10</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Switoritori</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Switoritori</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Switoritori</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2568136</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R11</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Vusiwana</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Vusiwana</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Vusiwana</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2533976</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R12</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Xikwembu Xa Matilo</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Xikwembu Xa Matilo</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Xikwembu Xa Matilo</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2577776</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R13</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Gaza Ya Pimapima</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A13</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Gaza Ya Pimapima</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Gaza Ya Pimapima</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2539426</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R14</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Tichampion</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A14</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Tichampion</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Tichampion</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2545184</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R15</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Swa Tsakisa</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A15</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Swa Tsakisa</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Swa Tsakisa</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5063710069045</ICPN><CatalogNumber Namespace='CDB'>DJTSAKISA</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>Switoritori</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A13</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A14</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A15</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A16</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ TSAKISA</DisplayArtistName>
+		        <LabelName>Dj Tsakisa Music</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>Switoritori</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>Switoritori</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ TSAKISA</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>Switoritori</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A6</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A7</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A8</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>9</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A9</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>10</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A10</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>11</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A11</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>12</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A12</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>13</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A13</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>14</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A14</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>15</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A15</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A16</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Blues</GenreText>
+				  <SubGenre>Electronic</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Dj Tsakisa music production</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ Tsakisa ThePunisher</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R5</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R6</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R7</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R8</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R9</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R10</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R11</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R12</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R13</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R14</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R15</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

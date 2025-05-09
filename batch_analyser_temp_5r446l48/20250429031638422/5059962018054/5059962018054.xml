@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>F089E216C5FD157816279CC5AE59FD13</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T08:11:45Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196407</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Keeling Curve</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M36S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Keeling Curve</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Keeling Curve</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>f88f470216a5fc03c54054b0ac4149f8</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196408</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Dig Up Dawn</TitleText></ReferenceTitle>
+				      <Duration>PT0H8M41S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Dig Up Dawn</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Dig Up Dawn</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>3f4898ff735335b16d0088ee794a5508</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196409</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Coin Though</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M20S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Coin Though</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Coin Though</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>8c08eea6fc0ddf78470e414ff82783f9</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196410</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Severe Cases</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M58S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Severe Cases</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Severe Cases</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>5dd9ae3498b314cace8a3bbe834badd7</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196411</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A5</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Global Monitoring</TitleText></ReferenceTitle>
+				      <Duration>PT0H5M05S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Global Monitoring</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Global Monitoring</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_005.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>40079b4617772d64e57e389f8a89f106</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX5MX2196412</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A6</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Lowers</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M06S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Lowers</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Lowers</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+							<LabelName>Psychic Liberation</LabelName>
+							<OriginalResourceReleaseDate>2022-01-01</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2022</Year>
+							<PLineText>Psychic Liberation</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Electronic</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5059962018054_006.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>3878e558fa91bbdfe866de4fbed6b4d8</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5059962018054.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A7</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5059962018054.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>98982146f0f2efc338a8eb2e85aa9d90</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196407</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Keeling Curve</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Keeling Curve</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Keeling Curve</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196408</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Dig Up Dawn</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Dig Up Dawn</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Dig Up Dawn</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196409</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Coin Though</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Coin Though</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Coin Though</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196410</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Severe Cases</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Severe Cases</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Severe Cases</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196411</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R5</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Global Monitoring</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Global Monitoring</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Global Monitoring</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX5MX2196412</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R6</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Lowers</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Lowers</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Lowers</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5059962018054</ICPN><CatalogNumber Namespace='CDB'>YeongDie</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>Weather Z</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A7</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yeong Die</DisplayArtistName>
+		        <LabelName>Psychic Liberation</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>Weather Z</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>Weather Z</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yeong Die</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>Weather Z</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A6</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A7</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Electronic</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2022-01-01</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2022</Year>
+				<PLineText>Psychic Liberation</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2022</Year>
+				<CLineText>Psychic Liberation</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R5</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R6</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-29T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

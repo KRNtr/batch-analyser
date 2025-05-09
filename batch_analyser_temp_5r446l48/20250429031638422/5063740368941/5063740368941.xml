@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>3A583B580335692CE53070EF21C8C286</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T07:50:50Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2584659</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>GAME HAPPY</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M60S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>GAME HAPPY</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>GAME HAPPY</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ KALL LOPEZ</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>DJ CHAKALL</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>DJ CHAKALL</LabelName>
+							<OriginalResourceReleaseDate>2025-04-11</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>DJ CHAKALL</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>None</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740368941_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>0b2e6d798687dfe8beac6358aa128d96</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5063740368941.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A2</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5063740368941.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>09ef26e23a81e98b43a38e28a1572a3f</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2584659</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>GAME HAPPY</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ KALL LOPEZ</DisplayArtistName>
+		        <LabelName>DJ CHAKALL</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>GAME HAPPY</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>GAME HAPPY</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ KALL LOPEZ</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>DJ CHAKALL</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ CHAKALL</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5063740368941</ICPN><CatalogNumber Namespace='CDB'>DJKALLLOPEZ</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>GAME HAPPY</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A2</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Single</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>DJ KALL LOPEZ</DisplayArtistName>
+		        <LabelName>DJ CHAKALL</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>GAME HAPPY</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>GAME HAPPY</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>DJ KALL LOPEZ</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>GAME HAPPY</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>None</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-11</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>DJ CHAKALL</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>DJ CHAKALL</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

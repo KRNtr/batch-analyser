@@ -471,6 +471,7 @@ def on_press(key):
     if key == keyboard.Key.esc:
         stop_execution = True
         print("\nEscape key detected. Exiting...")
+        
 
 def start_key_listener():
     """Start a non-blocking key listener."""

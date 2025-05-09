@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>883C67EE60B6E7E5AF6188B86459A915</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T06:39:21Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2545474</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText></ReferenceTitle>
+				      <Duration>PT0H7M50S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Dr. Vitus Eze</FullName>
+							</PartyName><ArtistRole>FeaturedArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Mercy Inyama</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Mercy Inyama</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Royal Music Network</LabelName>
+							<OriginalResourceReleaseDate>2025-04-15</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Mercy Chi (MMC)</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>Christian &amp; Gospel</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740380578_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>e6f19efd623f4b3c35cb6b4d79fd395a</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2544415</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>You Are Good</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M21S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>You Are Good</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>You Are Good</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Mercy Inyama</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Mercy Inyama</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Royal Music Network</LabelName>
+							<OriginalResourceReleaseDate>2025-04-15</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Mercy Chi (MMC)</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>Christian &amp; Gospel</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740380578_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>703b7ea1eec8ddf6face4c753f635544</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2501810</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Moving (My season)</TitleText></ReferenceTitle>
+				      <Duration>PT0H4M11S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Moving (My season)</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Moving (My season)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Mercy Inyama</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Mercy Inyama</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Royal Music Network</LabelName>
+							<OriginalResourceReleaseDate>2025-04-15</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Mercy Chi (MMC)</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>Christian &amp; Gospel</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740380578_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>8ae582bec6993719054adc6f87e8f955</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>GX38U2577795</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Worship Medley(Chant)</TitleText></ReferenceTitle>
+				      <Duration>PT0H6M04S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Worship Medley(Chant)</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Worship Medley(Chant)</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>Mercy Inyama</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+								<IndirectResourceContributor>
+										<PartyName>
+											<FullName>Mercy Inyama</FullName>
+										</PartyName>
+										<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+									</IndirectResourceContributor> 
+							<LabelName>Royal Music Network</LabelName>
+							<OriginalResourceReleaseDate>2025-04-15</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Mercy Chi (MMC)</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Alternative</GenreText>
+						  <SubGenre>Christian &amp; Gospel</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5063740380578_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>c5ff2ac7a20ef7cdf665ef86e56bdf0d</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5063740380578.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A5</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5063740380578.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>a55d290a8fd9e4409fc02cf1eaf6e15e</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2545474</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Mercy Chi (MMC)</DisplayArtistName>
+		        <LabelName>Royal Music Network</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Unshakeable (feat. Dr. Vitus Eze)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Dr. Vitus Eze</FullName>
+							</PartyName><ArtistRole>FeaturedArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>Christian &amp; Gospel</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-15</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Mercy Chi (MMC)</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2024</Year>
+				<CLineText>Mercy Chi (MMC)</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2544415</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>You Are Good</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Mercy Chi (MMC)</DisplayArtistName>
+		        <LabelName>Royal Music Network</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>You Are Good</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>You Are Good</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>Christian &amp; Gospel</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-15</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Mercy Chi (MMC)</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2024</Year>
+				<CLineText>Mercy Chi (MMC)</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2501810</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Moving (My season)</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Mercy Chi (MMC)</DisplayArtistName>
+		        <LabelName>Royal Music Network</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Moving (My season)</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Moving (My season)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>Christian &amp; Gospel</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-15</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Mercy Chi (MMC)</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2024</Year>
+				<CLineText>Mercy Chi (MMC)</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>GX38U2577795</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Worship Medley(Chant)</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Mercy Chi (MMC)</DisplayArtistName>
+		        <LabelName>Royal Music Network</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Worship Medley(Chant)</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Worship Medley(Chant)</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>Christian &amp; Gospel</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-15</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Mercy Chi (MMC)</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2024</Year>
+				<CLineText>Mercy Chi (MMC)</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5063740380578</ICPN><CatalogNumber Namespace='CDB'>MercyChi(MMC)</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>Unshakeable</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A5</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Mercy Chi (MMC)</DisplayArtistName>
+		        <LabelName>Royal Music Network</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>Unshakeable</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>Unshakeable</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Mercy Chi (MMC)</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Jasper Ihe</FullName>
+							</PartyName><ArtistRole>Arranger</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>Unshakeable</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Alternative</GenreText>
+				  <SubGenre>Christian &amp; Gospel</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-04-15</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Mercy Chi (MMC)</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2024</Year>
+				<CLineText>Mercy Chi (MMC)</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T13:56:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T13:56:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T13:56:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T13:56:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-04-25T13:56:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

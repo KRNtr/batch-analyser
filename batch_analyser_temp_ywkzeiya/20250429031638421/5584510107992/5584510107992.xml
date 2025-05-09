@@ -1,0 +1,2007 @@
+<?xml version='1.0' encoding='UTF-8'?><ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd" MessageSchemaVersionId="ern/382">
+		<MessageHeader>
+		    <MessageThreadId>723524</MessageThreadId>
+		    <MessageId>9122CA0557FB7EAA8E55A2DAA7B82438</MessageId>
+		    <MessageSender>
+		      <PartyId>PADPIDA2012091204O</PartyId>
+		      <PartyName>
+		        <FullName>Routenote</FullName>
+		      </PartyName>
+		    </MessageSender>
+		    <MessageRecipient>
+		      <PartyId>PADPIDA2011021513H</PartyId>
+		      <PartyName>
+		        <FullName>DEEZER</FullName>
+		      </PartyName>
+		    </MessageRecipient>
+		    <MessageCreatedDateTime>2025-04-29T05:00:28Z</MessageCreatedDateTime>
+		    <MessageControlType>LiveMessage</MessageControlType>
+		  </MessageHeader><UpdateIndicator xmlns=''>OriginalMessage</UpdateIndicator><ResourceList><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509031</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A1</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Paradise</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M32S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Paradise</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Paradise</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_001.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>73a4284fac341abcfdef3d9ce9fb5f7c</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509032</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A2</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Lollipop</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M34S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Lollipop</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Lollipop</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T2</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_002.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>2640709958393ddf0dc251d37c94dfb1</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509033</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A3</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Digger</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M34S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Digger</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Digger</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T3</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_003.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>eceba1693fe2cfe5625b176625d902be</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509034</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A4</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>No Hands</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M34S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>No Hands</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>No Hands</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T4</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_004.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>2cf1c241ead1731489b8673ab1f4ab18</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509035</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A5</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Humble</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M37S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Humble</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Humble</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T5</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_005.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>1737f0add75e680cb3a24d389fe9c66e</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509036</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A6</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Town Road</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M37S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Town Road</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Town Road</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T6</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_006.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>8850a6c29304301297e60d1ae600d309</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509037</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A7</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Knock Life</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M38S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Knock Life</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Knock Life</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T7</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_007.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>2c2c2acd3ca6dc33cc0ee07bfa65576b</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509038</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A8</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Regulate</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M38S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Regulate</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Regulate</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T8</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_008.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4195100d83236f1e086aa92c4bf1e7bd</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509039</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A9</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>How I Could</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M48S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>How I Could</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>How I Could</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T9</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_009.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>ba61d22843f4766a1696fd520a40e5a2</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509040</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A10</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Planet Rock</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M48S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Planet Rock</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Planet Rock</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T10</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_010.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>081ce5937151c11e92a1e7d76ce0d988</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509041</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A11</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>It’s Hot</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M52S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>It’s Hot</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>It’s Hot</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T11</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_011.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>c2205581036739c557a1b7fe31c0553d</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509042</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A12</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Fight the Power</TitleText></ReferenceTitle>
+				      <Duration>PT0H2M52S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Fight the Power</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Fight the Power</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T12</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_012.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>ee0aaca13ea829fa18c7eaac97c658d2</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509043</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A13</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Drop It</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M10S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Drop It</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Drop It</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T13</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_013.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>4da59f181a7260b86817b703a335cf70</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509044</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A14</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Mercy</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M10S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Mercy</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Mercy</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T14</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_014.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>c8b81a7d987cc657e7ec69992c992b77</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509045</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A15</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Mode And Mode</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M12S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Mode And Mode</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Mode And Mode</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T15</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_015.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>b9b73d60f8c3e11a39ed6bd119572c0c</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><SoundRecording>
+				      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+				      <SoundRecordingId>
+				        <ISRC>CAQOI2509046</ISRC>
+				      </SoundRecordingId>
+				      <ResourceReference>A16</ResourceReference>
+				      <ReferenceTitle>
+				        <TitleText>Alright</TitleText></ReferenceTitle>
+				      <Duration>PT0H3M12S</Duration>
+				      <SoundRecordingDetailsByTerritory>
+				        <TerritoryCode>Worldwide</TerritoryCode><Title TitleType='FormalTitle'>
+						  <TitleText>Alright</TitleText>
+						</Title>
+						<Title TitleType='DisplayTitle'>
+						  <TitleText>Alright</TitleText>
+						</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+									<IndirectResourceContributor>
+											<PartyName>
+												<FullName>John lavington</FullName>
+											</PartyName>
+											<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+										</IndirectResourceContributor>
+							<LabelName>Arnie Alchy</LabelName>
+							<OriginalResourceReleaseDate>2025-05-08</OriginalResourceReleaseDate>
+							<PLine>
+							<Year>2025</Year>
+							<PLineText>Arnie Alchy</PLineText>
+						 </PLine>
+				        <Genre>
+				          <GenreText>Hip Hop/Rap</GenreText>
+						  <SubGenre>Instrumental</SubGenre>
+				        </Genre>
+						<ParentalWarningType>NotExplicit</ParentalWarningType>
+				        <TechnicalSoundRecordingDetails>
+					          <TechnicalResourceDetailsReference>T16</TechnicalResourceDetailsReference>
+					          <AudioCodecType UserDefinedValue='FLAC'>UserDefined</AudioCodecType>
+					          <SamplingRate UnitOfMeasure='kHz'>44100</SamplingRate>
+							  <BitsPerSample>16</BitsPerSample>
+					          <IsPreview>false</IsPreview>
+					          <File>
+					            <FileName>5584510107992_016.flac</FileName>
+					            <FilePath>resources/</FilePath>
+								<HashSum>
+					              <HashSum>9aac1db6ba755d9db4f6953572908e13</HashSum>
+					              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+								</HashSum>
+					          </File>
+					        </TechnicalSoundRecordingDetails></SoundRecordingDetailsByTerritory>
+				    </SoundRecording><Image>
+			      <ImageType>FrontCoverImage</ImageType>
+			      <ImageId>
+			        <ProprietaryId Namespace='CDB'>GGL_UIM_ID:[5584510107992.jpg]</ProprietaryId>
+			      </ImageId>
+			      <ResourceReference>A17</ResourceReference>
+			      <ImageDetailsByTerritory>
+			        <TerritoryCode>Worldwide</TerritoryCode><TechnicalImageDetails>
+			          <TechnicalResourceDetailsReference>T1</TechnicalResourceDetailsReference>
+			          <ImageCodecType>JPEG</ImageCodecType>
+			          <ImageHeight>3000</ImageHeight>
+			          <ImageWidth>3000</ImageWidth>
+			          <File>
+			            <FileName>5584510107992.jpg</FileName>
+			            <FilePath>resources/</FilePath>
+			            <HashSum>
+			              <HashSum>8bd9700c333c8f7c51a93b44c7acda79</HashSum>
+			              <HashSumAlgorithmType>MD5</HashSumAlgorithmType>
+			            </HashSum>
+			          </File>
+					</TechnicalImageDetails></ImageDetailsByTerritory>
+			    </Image></ResourceList><ReleaseList><Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509031</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R1</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Paradise</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Paradise</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Paradise</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509032</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R2</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Lollipop</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Lollipop</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Lollipop</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509033</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R3</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Digger</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Digger</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Digger</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509034</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R4</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>No Hands</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>No Hands</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>No Hands</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509035</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R5</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Humble</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Humble</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Humble</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509036</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R6</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Town Road</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Town Road</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Town Road</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509037</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R7</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Knock Life</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Knock Life</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Knock Life</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509038</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R8</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Regulate</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Regulate</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Regulate</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509039</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R9</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>How I Could</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>How I Could</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>How I Could</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509040</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R10</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Planet Rock</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Planet Rock</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Planet Rock</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509041</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R11</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>It’s Hot</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>It’s Hot</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>It’s Hot</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509042</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R12</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Fight the Power</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Fight the Power</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Fight the Power</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509043</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R13</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Drop It</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A13</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Drop It</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Drop It</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509044</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R14</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Mercy</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A14</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Mercy</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Mercy</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509045</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R15</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Mode And Mode</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A15</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Mode And Mode</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Mode And Mode</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release>
+		      <ReleaseId>
+		        <ISRC>CAQOI2509046</ISRC>
+		      </ReleaseId>
+		      <ReleaseReference>R16</ReleaseReference>
+		      <ReferenceTitle>
+		        <TitleText>Alright</TitleText></ReferenceTitle>
+		      <ReleaseResourceReferenceList>
+		        <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A16</ReleaseResourceReference>
+		      </ReleaseResourceReferenceList>
+		      <ReleaseType>TrackRelease</ReleaseType>
+		      <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName><Title TitleType='FormalTitle'>
+		          <TitleText>Alright</TitleText>
+		        </Title>
+		        <Title TitleType='DisplayTitle'>
+		          <TitleText>Alright</TitleText>
+		        </Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+					 <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+			</Release>
+		    <Release IsMainRelease='true'>
+		      <ReleaseId><ICPN IsEan='true'>5584510107992</ICPN><CatalogNumber Namespace='CDB'>Yungstonne</CatalogNumber></ReleaseId><ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle><TitleText>Heavy Game</TitleText></ReferenceTitle><ReleaseResourceReferenceList>
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A1</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A2</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A3</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A4</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A5</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A6</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A7</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A8</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A9</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A10</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A11</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A12</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A13</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A14</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A15</ReleaseResourceReference>
+			  
+			  <ReleaseResourceReference ReleaseResourceType='PrimaryResource'>A16</ReleaseResourceReference>
+			    <ReleaseResourceReference ReleaseResourceType='SecondaryResource'>A17</ReleaseResourceReference></ReleaseResourceReferenceList><ReleaseType>Album</ReleaseType> <ReleaseDetailsByTerritory>
+		        <TerritoryCode>Worldwide</TerritoryCode>
+		        <DisplayArtistName>Yung stonne</DisplayArtistName>
+		        <LabelName>Arnie Alchy</LabelName>
+					<Title TitleType='FormalTitle'>
+					  <TitleText>Heavy Game</TitleText>
+					</Title>
+					<Title TitleType='DisplayTitle'>
+					  <TitleText>Heavy Game</TitleText>
+					</Title><DisplayArtist>
+							<PartyName>
+							<FullName>Yung stonne</FullName>
+							</PartyName><ArtistRole>MainArtist</ArtistRole></DisplayArtist><DisplayArtist>
+							<PartyName>
+							<FullName>Peter Steward</FullName>
+							</PartyName><ArtistRole>Producer</ArtistRole></DisplayArtist>
+		        <ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<Title TitleType='GroupingTitle'>
+				          <TitleText>Heavy Game</TitleText>
+				  </Title><SequenceNumber>1</SequenceNumber><ResourceGroupContentItem>
+				<SequenceNumber>1</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A1</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>2</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A2</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>3</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A3</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>4</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A4</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>5</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A5</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>6</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A6</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>7</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A7</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>8</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A8</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>9</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A9</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>10</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A10</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>11</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A11</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>12</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A12</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>13</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A13</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>14</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A14</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>15</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A15</ReleaseResourceReference>
+				</ResourceGroupContentItem><ResourceGroupContentItem>
+				<SequenceNumber>16</SequenceNumber>
+				<ResourceType>SoundRecording</ResourceType>
+				<ReleaseResourceReference>A16</ReleaseResourceReference>
+				</ResourceGroupContentItem> </ResourceGroup>
+				  <ResourceGroupContentItem>
+				 <ResourceType>Image</ResourceType>
+				<ReleaseResourceReference>A17</ReleaseResourceReference>
+				</ResourceGroupContentItem>
+				</ResourceGroup>
+		        <Genre>
+		          <GenreText>Hip Hop/Rap</GenreText>
+				  <SubGenre>Instrumental</SubGenre>
+		        </Genre>
+		        <OriginalReleaseDate>2025-05-08</OriginalReleaseDate>
+		      </ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2025</Year>
+				<PLineText>Arnie Alchy</PLineText>
+			 </PLine>
+			 <CLine>
+				<Year>2025</Year>
+				<CLineText>Arnie Alchy</CLineText>
+			</CLine>
+		    </Release></ReleaseList>
+		  <DealList>
+		    <ReleaseDeal>
+		      <DealReleaseReference>R0</DealReleaseReference>
+               <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                     <CommercialModelType>SubscriptionModel</CommercialModelType> 
+		         <Usage> 
+                     <UseType>PermanentDownload</UseType> 
+                     <UseType>OnDemandStream</UseType> 
+                      <UseType>NonInteractiveStream</UseType> 
+                      <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                 </Usage> 
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R1</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R2</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R3</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R4</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R5</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R6</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R7</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R8</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R9</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R10</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R11</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R12</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R13</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R14</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R15</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			<ReleaseDeal>
+		      <DealReleaseReference>R16</DealReleaseReference>
+		      <Deal>
+		        <DealTerms>
+					<CommercialModelType>PayAsYouGoModel</CommercialModelType>
+                    <CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+                    <CommercialModelType>SubscriptionModel</CommercialModelType> 
+					<Usage> 
+						 <UseType>PermanentDownload</UseType> 
+                          <UseType>OnDemandStream</UseType> 
+                          <UseType>NonInteractiveStream</UseType> 
+                          <DistributionChannelType>InternetAndMobile</DistributionChannelType> 
+                      </Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod><StartDateTime>2025-05-08T00:00:00</StartDateTime></ValidityPeriod>
+		        </DealTerms>
+			</Deal>				  		      
+		    </ReleaseDeal>
+			</DealList></ern:NewReleaseMessage>

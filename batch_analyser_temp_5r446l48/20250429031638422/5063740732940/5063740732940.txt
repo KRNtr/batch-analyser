@@ -1,0 +1,9 @@
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AlAsr_New_Version_1744429573.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AlFalaq_New_Version_1744429588.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AlFil_New_Version_1744429606.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AlHumazah_New_Version_1744429624.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AlKautsar_New_Version_1744429650.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AnNas_New_Version_1744429675.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_Quraiys_New_Version_1744429704.flac
+https://storage.googleapis.com/routenote-release-cloudfiles/5063740732940/Surah_AnNasr_New_Version_1744429737.flac
+

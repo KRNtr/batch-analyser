@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 import zipfile
 import tempfile
 import shutil
@@ -16,6 +17,9 @@ import AutoUpdate
 from AutoUpdate import COLOUR
 
 os.system('color')
+
+# Get the directory of the current script or executable
+BASE_DIR = os.path.dirname(os.path.abspath(sys.executable if getattr(sys, 'frozen', False) else __file__))
 
 class COLOUR:
     ESC = '\x1b'
@@ -75,13 +79,14 @@ def check_for_errors(zip_file_path):
     global stop_execution
 
     # Create a temporary directory to extract the zip file
-    temp_dir = tempfile.mkdtemp(prefix = "batch_analyser_temp_")
+    temp_dir = tempfile.mkdtemp(prefix = "batch_analyser_temp_", dir=BASE_DIR)
     failed_subdirs = []
     error_details = []
     xml_name = ""
     xml_exists = True
 
     try:
+        zip_file_path = os.path.abspath(zip_file_path)
         # Extract all contents of the zip file into the temporary directory
         with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
             zip_ref.extractall(temp_dir)
@@ -479,7 +484,7 @@ def main():
     
     ########################################## Auto Update ##########################################
     exe_name = os.path.basename(__file__)
-    local_dir = os.path.dirname(__file__)
+    local_dir = BASE_DIR
     local_version = AutoUpdate.get_local_version(exe_name)
 
     if local_version == None:
